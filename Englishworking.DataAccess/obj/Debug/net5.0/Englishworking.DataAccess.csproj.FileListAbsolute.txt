@@ -1,0 +1,17 @@
+C:\Users\HP\source\repos\Englishworking\Englishworking.DataAccess\bin\Debug\net5.0\Englishworking.DataAccess.deps.json
+C:\Users\HP\source\repos\Englishworking\Englishworking.DataAccess\bin\Debug\net5.0\Englishworking.DataAccess.dll
+C:\Users\HP\source\repos\Englishworking\Englishworking.DataAccess\bin\Debug\net5.0\ref\Englishworking.DataAccess.dll
+C:\Users\HP\source\repos\Englishworking\Englishworking.DataAccess\bin\Debug\net5.0\Englishworking.DataAccess.pdb
+C:\Users\HP\source\repos\Englishworking\Englishworking.DataAccess\bin\Debug\net5.0\Englishworking.Core.dll
+C:\Users\HP\source\repos\Englishworking\Englishworking.DataAccess\bin\Debug\net5.0\Englishworking.Data.dll
+C:\Users\HP\source\repos\Englishworking\Englishworking.DataAccess\bin\Debug\net5.0\Englishworking.Core.pdb
+C:\Users\HP\source\repos\Englishworking\Englishworking.DataAccess\bin\Debug\net5.0\Englishworking.Data.pdb
+C:\Users\HP\source\repos\Englishworking\Englishworking.DataAccess\obj\Debug\net5.0\Englishworking.DataAccess.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Englishworking\Englishworking.DataAccess\obj\Debug\net5.0\Englishworking.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Englishworking\Englishworking.DataAccess\obj\Debug\net5.0\Englishworking.DataAccess.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Englishworking\Englishworking.DataAccess\obj\Debug\net5.0\Englishworking.DataAccess.AssemblyInfo.cs
+C:\Users\HP\source\repos\Englishworking\Englishworking.DataAccess\obj\Debug\net5.0\Englishworking.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Englishworking\Englishworking.DataAccess\obj\Debug\net5.0\Englishworking.DataAccess.csproj.CopyComplete
+C:\Users\HP\source\repos\Englishworking\Englishworking.DataAccess\obj\Debug\net5.0\Englishworking.DataAccess.dll
+C:\Users\HP\source\repos\Englishworking\Englishworking.DataAccess\obj\Debug\net5.0\ref\Englishworking.DataAccess.dll
+C:\Users\HP\source\repos\Englishworking\Englishworking.DataAccess\obj\Debug\net5.0\Englishworking.DataAccess.pdb

@@ -1,0 +1,12 @@
+C:\Users\HP\source\repos\Englishworking\Englishworking.Data\bin\Debug\net5.0\Englishworking.Data.deps.json
+C:\Users\HP\source\repos\Englishworking\Englishworking.Data\bin\Debug\net5.0\Englishworking.Data.dll
+C:\Users\HP\source\repos\Englishworking\Englishworking.Data\bin\Debug\net5.0\ref\Englishworking.Data.dll
+C:\Users\HP\source\repos\Englishworking\Englishworking.Data\bin\Debug\net5.0\Englishworking.Data.pdb
+C:\Users\HP\source\repos\Englishworking\Englishworking.Data\obj\Debug\net5.0\Englishworking.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Englishworking\Englishworking.Data\obj\Debug\net5.0\Englishworking.Data.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Englishworking\Englishworking.Data\obj\Debug\net5.0\Englishworking.Data.AssemblyInfo.cs
+C:\Users\HP\source\repos\Englishworking\Englishworking.Data\obj\Debug\net5.0\Englishworking.Data.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Englishworking\Englishworking.Data\obj\Debug\net5.0\Englishworking.Data.dll
+C:\Users\HP\source\repos\Englishworking\Englishworking.Data\obj\Debug\net5.0\ref\Englishworking.Data.dll
+C:\Users\HP\source\repos\Englishworking\Englishworking.Data\obj\Debug\net5.0\Englishworking.Data.pdb
+C:\Users\HP\source\repos\Englishworking\Englishworking.Data\obj\Debug\net5.0\Englishworking.Data.csproj.AssemblyReference.cache
